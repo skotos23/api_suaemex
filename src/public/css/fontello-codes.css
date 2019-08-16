@@ -1,0 +1,5 @@
+
+.icon-edit:before { content: '\e800'; } /* '' */
+.icon-user:before { content: '\e801'; } /* '' */
+.icon-upload-cloud:before { content: '\f0ee'; } /* '' */
+.icon-lock-open-alt:before { content: '\f13e'; } /* '' */

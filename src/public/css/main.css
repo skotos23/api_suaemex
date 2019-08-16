@@ -1,0 +1,10 @@
+body{
+  
+   background:  #000000;
+    background: -webkit-linear-gradient(to right, #000000, #2A5532); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #000000, #2A5532);
+}
+.logo{
+    width: 50%;
+
+}
